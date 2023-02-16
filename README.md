@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋
 
 I'm Sepideh Shamsizadeh, an AI and robotics professional with two master's degrees in Artificial Intelligence and Robotics from the University of Padova and Health Information Technology from the University of Tehran. I'm passionate about the vision of robots and the future of AI, and have expertise in machine learning, ROS, Python, and computer vision.
 
