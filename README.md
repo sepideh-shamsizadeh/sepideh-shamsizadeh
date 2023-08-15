@@ -31,7 +31,7 @@ Currently, I'm working on my master's thesis GuidingRobot which is a project to 
 
 ### What I'm Currently Learning
 
-I'm currently focused on mastering my skills in advanced Python, Tensorflow, Git, ROS, and C++. I'm working on [Learning_Programing](https://github.com/sepideh-shamsizadeh/Learning_programing) Repository to deepen my understanding of these technologies and apply them to real-world problems.
+I'm currently focused on mastering my skills in advanced Python, Tensorflow, Git, ROS, and C++.
 
 ### Projects
 
