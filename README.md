@@ -1,47 +1,66 @@
-### Hi there 👋
+# Hi, I'm Sepideh! 👋
 
-<!--
-**sepideh-shamsizadeh/sepideh-shamsizadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AI & Robotics Engineer | Computer Vision | Machine Learning
 
-Here are some ideas to get you started:
+**Curious by nature. Engineer by passion. Builder at heart.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an AI and Robotics Engineer passionate about exploring new technologies, tackling complex challenges, and turning ambitious ideas into real-world solutions.
 
+With two master's degrees in **Artificial Intelligence & Robotics** from the University of Padova and **Health Information Technology** from the University of Tehran, I've worked across robotics, computer vision, machine learning, and intelligent systems.
 
-I'm Sepideh Shamsizadeh, an AI and robotics professional with two master's degrees in Artificial Intelligence and Robotics from the University of Padova and Health Information Technology from the University of Tehran. I'm passionate about the vision of robots and the future of AI, and have expertise in machine learning, ROS, Python, and computer vision.
+What excites me most is the opportunity to **discover, experiment, and build something new** — especially intelligent robots that can perceive, understand, and interact with the world around them.
 
-Currently, I'm working on my master's thesis GuidingRobot which is a project to tracking people with panaromic camera.
+I believe technology is most meaningful when it moves beyond research and makes a positive difference in people's lives.
 
-### Skills
+### 🔬 What I Work On
 
-- Machine learning
-- ROS
-- Python
-- Computer vision
-- C++
-- Git
+- 🤖 **Robotics & Autonomous Systems:** Robot perception, ROS, navigation, and sensor integration.
+- 👁️ **Computer Vision & 3D Perception:** Point cloud processing, image segmentation, Structure from Motion, and camera–LiDAR systems.
+- 🧠 **AI & Machine Learning:** Deep learning, representation learning, multimodal AI, and real-world ML applications.
+- ⚙️ **Intelligent Software Systems:** Building practical, efficient, and scalable solutions using Python and C++.
 
-### What I'm Currently Learning
+### 🛠️ Tech Stack
 
-I'm currently focused on mastering my skills in advanced Python, Tensorflow, Git, ROS, and C++.
+**Languages:** Python · C++ · SQL
 
-### Projects
+**AI & Machine Learning:** PyTorch · TensorFlow · Scikit-learn · Deep Learning
 
-- [Cloud-Registration](https://github.com/sepideh-shamsizadeh/Cloud-Registration/tree/main): Given a source and a target point cloud, find the alignment transformation of the source to the target cloud.
-- [Structure from Motion](https://github.com/sepideh-shamsizadeh/3D_structure_from_motion): Developed a Structure from Motion pipeline in a group project, implementing feature extraction and matching as well as incremental 3D reconstruction using C++ and Ceres Solver.
-- [PatchMatching](https://github.com/sepideh-shamsizadeh/3D_PatchMatching/tree/master): Implemented Patch Matching algorithm to estimate disparity maps from stereo images, and extended the software with core functionalities such as disparity propagation and random search.
+**Computer Vision & 3D:** OpenCV · PCL · Open3D · Point Clouds · Structure from Motion
 
-### Contact
+**Robotics:** ROS · ROS 2 · Sensor Fusion · Robot Perception
 
-- Email: sepideh.92sh@gmail.com
-- LinkedIn: [sepideh-shamsizadeh](https://www.linkedin.com/in/sepideh-shamsizadeh/)
+**Tools:** Git · Docker · Linux · Jupyter
 
-Feel free to reach out if you're interested in collaborating on any projects or have any questions about my work. Let's innovate together!
+### 🚀 Featured Projects
+
+**[3D Structure from Motion](https://github.com/sepideh-shamsizadeh/3D_structure_from_motion)**
+
+Developed an incremental 3D reconstruction pipeline using feature extraction, feature matching, and nonlinear optimization with C++ and Ceres Solver.
+
+**[Point Cloud Registration](https://github.com/sepideh-shamsizadeh/Cloud-Registration)**
+
+Implemented techniques to estimate the geometric transformation between source and target point clouds for 3D alignment.
+
+**[Stereo Vision – PatchMatch](https://github.com/sepideh-shamsizadeh/3D_PatchMatching)**
+
+Implemented a PatchMatch-based stereo matching algorithm for disparity estimation, including propagation and random search.
+
+### 🌱 What Drives Me
+
+I'm especially interested in the intersection of **AI, computer vision, and robotics**, where intelligent algorithms become systems that can interact with the physical world.
+
+I love learning how things work, questioning existing approaches, and experimenting with new ideas.
+
+My long-term ambition is to contribute to **intelligent, autonomous, and human-centered robots** that make everyday life easier and expand what's technologically possible.
+
+### 🤝 Let's Connect!
+
+I'm always happy to connect with people who share a passion for robotics, AI, research, and building innovative technologies.
+
+📧 **Email:** [sepideh.92sh@gmail.com](mailto:sepideh.92sh@gmail.com)
+
+💼 **LinkedIn:** [sepideh-shamsizadeh](https://www.linkedin.com/in/sepideh-shamsizadeh/)
+
+---
+
+*Keep exploring. Keep learning. Keep building.* 🚀
